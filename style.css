@@ -60,6 +60,9 @@ h3{
     border-radius: 20px;
     box-shadow: 10px 10px 30px 0 #d8d8d8;
 }
+h1{
+    font-size: 1.2rem;
+}
 .grid-three q{
     letter-spacing: 3px;
 }
